@@ -12,6 +12,6 @@ The aim of this project is to predict if the borrower can repay the loan by its 
 
 1.) What are the data tyoes for each features?
 
-2.) Do we have any missing values? If so, how to remove address them.
+2.) Do we have any missing values? If so, how to address them.
 
 3.) Do we have imbalanced datasets?
