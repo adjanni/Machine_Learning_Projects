@@ -20,12 +20,14 @@ STEP 1/
 
 4.) Do we have imbalanced datasets?
 
+
 STEP 2/
 
-1) How to prepare the features for Machine Learning?
+1.) How to prepare the features for Machine Learning?
 
   1.1) Identify the categorical features in the datasets.
   
   1.2) How to convert categorical columns to numeric features? 
+  
   
 Once the datasets are cleaned and prepared, there are ready for a Machine Learning project!
