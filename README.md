@@ -10,8 +10,22 @@ A key step in any machine learning (ML) is the pre-processing one. During which 
 
 The aim of this project is to predict if the borrower can repay the loan by its mature date or not. In this project, I will focus on the preprocessing step:
 
-1.) What are the data tyoes for each features?
+STEP 1/
 
-2.) Do we have any missing values? If so, how to address them.
+1.) Examining and understanding the datasets
 
-3.) Do we have imbalanced datasets?
+2.) What are the data tyoes for each features?
+
+3.) Do we have any missing values? If so, how to address them.
+
+4.) Do we have imbalanced datasets?
+
+STEP 2/
+
+1) How to prepare the features for Machine Learning?
+
+  1.1) Identify the categorical features in the datasets.
+  
+  1.2) How to convert categorical columns to numeric features? 
+  
+Once the datasets are cleaned and prepared, there are ready for a Machine Learning project!
