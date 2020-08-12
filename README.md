@@ -15,9 +15,9 @@ The project is accessible in this [link](https://github.com/adjanni/Machine_Lear
 
 ## Project 3 - Credit card fraud detection (on going ...)
 The aim of this project is to build an optimal ML models that could predict if a transaction is fraudulent or not! In this project, I implement various supervised Supervised Learning algorithms. The performance of each technique is evalued based on the confusion matrix and f1-score - I have implemented the following algorithms 
-  #### 1./ KNN: this is an instance based learning which carries out its classification based on similarity measure like Euclidean, Manhattan or Minkowski distance functions. I have ysed the Euclidian distance in this step.
-  #### 2./ Neural Network
-  #### 3./ K-Means
-  #### 4./ SVMs:
+  #### 1./ KNN: this is an instance based learning which carries out its classification based on similarity measured like Euclidean, Manhattan, Chebyshev, Hamming distance or even Cosine Similarity. I have ysed the Euclidian distance in this step.
+  #### 2./ SVMs
+  #### 3./ Neural Network
+  #### 4./ K-Means
   
 The link to the project is [here](https://github.com/adjanni/Machine_Learning_Projects/tree/master/Credit_Card_Fraud_Detection)
