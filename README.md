@@ -6,7 +6,7 @@ This folder contains 8 projects that I have done throughout the Standford Machin
   #### 1./ Supervised Learning: Linear Regression, Logistic Regression, Neural Network, and SVMs. 
   #### 2./ Unsupervised Learning: K-means, PCA, Anomaly Detection, and Recommender System
 
-To access the folder directly, click [Here](https://github.com/adjanni/Machine_Learning_Projects/tree/master/8_ML_Projects_OCTAVE)
+To access the folder directly, click [here](https://github.com/adjanni/Machine_Learning_Projects/tree/master/8_ML_Projects_OCTAVE)
 
 ## Project 2 - Data Preprocessing, Processing: Loan Eligibility Prediction (Done)
 The aim of this project is to create a loan model that predict if a borrower is more likely to paid off his/her debts. In this project, I show step by step processes how to process raw data, clean unnecessary part of it, select relevant features, perform exploratory data analysis, and finally build a model.
