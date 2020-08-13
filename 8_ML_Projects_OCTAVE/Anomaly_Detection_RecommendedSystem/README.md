@@ -22,4 +22,6 @@ In this project has two parts:
       1.3. I implement regulaised cost function follow with a regularised gradient
      
    2. I train my algorithm to make movie recommendation for myself.
+   
+   
       
