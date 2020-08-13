@@ -13,7 +13,7 @@ The aim of this project is to create a loan model that predict if a borrower is 
 
 The project is accessible in this [link](https://github.com/adjanni/Machine_Learning_Projects/tree/master/DataPreprocessing_Predicting_Loan_Repayment)
 
-![alt text](C:/Users/adjanni/Desktop/corr)
+![alt text](C:/Users/adjanni/Desktop/corr?raw=true "Title")
 
 ## Project 3 - Credit card fraud detection (on going ...)
 The aim of this project is to build an optimal ML models that could predict if a transaction is fraudulent or not! In this project, I implement various supervised Supervised Learning algorithms. The performance of each technique is evalued based on the confusion matrix and f1-score - I have implemented the following algorithms 
