@@ -22,3 +22,18 @@ The aim of this project is to build an optimal ML models that could predict if a
   #### 4./ K-Means
   
 The link to the project is [here](https://github.com/adjanni/Machine_Learning_Projects/tree/master/Credit_Card_Fraud_Detection)
+
+## Project 4 - Tensorflow & Keras: Build a Neural Network model to solve image classification (on going ...)
+In this project, I built a neural network model to solve a basic image classification problem on handwritten digits dataset, namely, MINST. In this project, I accomplished the following task:
+
+  #### 1. Understand the problem statement
+  #### 2. Understand the dataset
+  #### 3. Encode the labels
+  #### 4. Preprocess images
+  #### 5. Implement Hyperparameter search to find the optimal classifier parameters
+  #### 6. Create a neural network model
+  #### 7. Train the model to fit the dataset
+  #### 8. Evaluate the model
+  #### 9. Visualise the predictions
+  
+The link to the project is [Tensorflow Model Building](https://github.com/adjanni/Machine_Learning_Projects/tree/master/TensorFlow_Keras_Projects/Image_classifcation_TF_Keras)
