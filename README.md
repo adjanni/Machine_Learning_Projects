@@ -1,6 +1,6 @@
 # Machine Learning Projects
 
-## Project 1 (done)
+## Project 1 (DONE) - Projects completed using Octave
 This folder contains 8 projects that I have done throughout the Standford Machine Learning (ML) online course. The project emcompasses the development and the implementation of ML algorithms such as
 
   #### 1./ Supervised Learning: Linear Regression, Logistic Regression, Neural Network, and SVMs. 
@@ -23,7 +23,7 @@ The aim of this project is to build an optimal ML models that could predict if a
   
 The link to the project is [here](https://github.com/adjanni/Machine_Learning_Projects/tree/master/Credit_Card_Fraud_Detection)
 
-## Project 4 - Tensorflow & Keras: Build a Neural Network model to solve image classification (on going ...)
+## Project 4 - Tensorflow & Keras: Build a Neural Network model to solve image classification (DONE)
 In this project, I built a neural network model to solve a basic image classification problem on handwritten digits dataset, namely, MINST. In this project, I accomplished the following task:
 
   #### 1. Understand the problem statement
