@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Machine Learning Projects
 
 ## Project 1 (DONE) - Projects completed using Octave
@@ -38,7 +37,3 @@ In this project, I built a neural network model to solve a basic image classific
   #### 9. Visualise the predictions
   
 The link to the project is [Tensorflow Model Building](https://github.com/adjanni/Machine_Learning_Projects/tree/master/TensorFlow_Keras_Projects/Image_classifcation_TF_Keras)
-=======
-
-
->>>>>>> c2e8828... Updating Credit cardFraud projects
