@@ -9,7 +9,9 @@ The goal of this project is to automatically stop credit credit card fraudulent 
 
 [2] Amin Selim: Capturing fraudulent credit card transactions using a Gaussian Anomaly Detection algorithm with PCA masked data - https://www.imo.universite-paris-saclay.fr/IMG/pdf/report-selim_cle0d276d.pdf
 
+
 **Datasets**
+
 Experiment is conducted on Kaggle's dataset . The following subsets were used:
   
   . Training:
