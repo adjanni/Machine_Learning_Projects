@@ -1,8 +1,28 @@
 
 **Detecting Credit Card Fraud using supervised and unsupervised learning**
 
-In this repo, in the first part, I analyse the datasets (data cleaning, correlation analysis, labelisation of datasets). In the second part, I discuss the use of various supervised classifiers to capture fraudulent credit card transactions. The last part, I discuss the use of Principal Component Analysis (PCA) and Gaussian
-Anomaly Detection (GAD) as Andrew Ng explain in his coursera's lecture [1]. The PCA is an unsupervised machine learning technique that decreases the size of the data while still keeping the information it contains [2].
+The goal of this project is to automatically stop credit credit card fraudulent transaction. The work consits of analysing the datasets (data cleaning, correlation analysis, labelisation of datasets) and discussing the use of various supervised classifiers to capture fraudulent credit card transactions. In another repo, I discuss the use of Principal Component Analysis (PCA) and Gaussian Anomaly Detection (GAD) as Andrew Ng explain in his coursera's lecture [1]. The PCA is an unsupervised machine learning technique that decreases the size of the data while still keeping the information it contains [2].
+
+**References**
+
+[1] Andrew Ng - https://www.youtube.com/watch?v=lCipWj-Cets
+
+[2] Amin Selim: Capturing fraudulent credit card transactions using a Gaussian Anomaly Detection algorithm with PCA masked data - https://www.imo.universite-paris-saclay.fr/IMG/pdf/report-selim_cle0d276d.pdf
+
+**Datasets**
+Experiment is conducted on Kaggle's dataset . The following subsets were used:
+  
+  . Training:
+  . Validation:
+  . Test: 
+  
+ **Classifiers**
+  . KNN
+  . SVM
+  . Random forest
+  . Neural Network
+
+**Experiments**
 
 **Error Analysis**
 The dataset at our disposal is extremely skewed, . Hence, I measure the success rate with a netric called the F1-score. To do so, I compute precision and recall. 
@@ -34,8 +54,4 @@ F1 = 2 PR/(P+R)
 
 
 
-**Bibliography**
 
-[1] Andrew Ng - https://www.youtube.com/watch?v=lCipWj-Cets
-
-[2] Amin Selim: Capturing fraudulent credit card transactions using a Gaussian Anomaly Detection algorithm with PCA masked data - https://www.imo.universite-paris-saclay.fr/IMG/pdf/report-selim_cle0d276d.pdf
